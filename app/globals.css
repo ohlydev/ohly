@@ -19,11 +19,11 @@
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+    266.49deg,
+    #4a0057 -95.53%,
+    #000000 56.53%,
+    #4a0057 211.79%
+  );
 }
 
 @layer utilities {
